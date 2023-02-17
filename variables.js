@@ -17,7 +17,7 @@ let faveNum = 7;
 
 //CODE HERE
 
-let lovesCode = True;
+let lovesCode = true;
 
 //////////////////PROBLEM 4////////////////////
 /*
